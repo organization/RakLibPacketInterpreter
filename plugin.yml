@@ -1,0 +1,9 @@
+name: RakLibPacketInterpreter
+main: RakLibPacketInterpreter\RakLibPacketInterpreter
+version: 1.0-Alpha
+api:
+- 1.0.0
+- 1.4.1
+- 1.12.0
+- 1.13.0
+- 2.0.0
